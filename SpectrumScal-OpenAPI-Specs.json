@@ -4,7 +4,7 @@
     "version" : "1.0.0",
     "title" : "Liberty REST APIs"
   },
-  "host" : "mrsil00197:443",
+  "host" : "192.168.1.160:1080",
   "tags" : [ {
     "name" : "Spectrum Scale REST API v2",
     "description" : "APIs for managing a Spectrum Scale cluster"
